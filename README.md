@@ -1,4 +1,4 @@
-# edoc-echanneling
+# edoc
 ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
 
 Simple web project that made for e-channeling.
@@ -71,7 +71,7 @@ Create a new database naming edoc.
 
 Import the provided SQL file. The file is known as DATABASE edoc.sql located inside the source code root folder.
 
-Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc-echanneling-main/.
+Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc
 
 
 
@@ -119,7 +119,6 @@ Server Software: 	Apache/2.4.39 (Win64) PHP/7.3.5
 
 MySQL Version: 		5.7.26
 
-Also available in sourcecodester.com : https://www.sourcecodester.com/hashenudara/simple-doctors-appointment-project.html
 
 Demo video: https://youtu.be/mAWHYAHmit4
 
