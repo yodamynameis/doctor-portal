@@ -106,8 +106,6 @@ PATIENT PASSWORD:	123
 
 
 
-
-
 ---------------------------------------
 # The Project was developed using the following:
 
@@ -118,9 +116,6 @@ PHP Version: 		7.3.5
 Server Software: 	Apache/2.4.39 (Win64) PHP/7.3.5
 
 MySQL Version: 		5.7.26
-
-
-
 
 
 
